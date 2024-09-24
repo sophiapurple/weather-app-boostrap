@@ -1,0 +1,109 @@
+@media(max-width:700px){
+   
+   .forcastWrapper .icon{
+      width: 90px;
+      
+   }
+  .forcastWrapper .temp{
+   font-size: 13px;
+   font-weight: bold;
+}
+.forcastWrapper .day{
+   font-size: 15px;
+}
+
+.nav{
+   font-size: 14px;
+}
+
+    .tempWrapper .weather-icon{
+  position: relative;
+  left: 30px;
+  width: 100px;
+    }
+
+    .tempWrapper .weatherTemp{
+      font-size: 25px;
+      font-weight: bold;
+      
+    }
+    
+    .weather-wrap .city{
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+   .weather .time.humidity{
+        font-size: 200px;
+    }
+    .weather .wind{
+        font-size: 15px;
+    }
+   
+
+}
+
+
+.city{
+   font-size: 60px;
+   color: red;
+   
+}
+.day{
+    text-align: center;
+    
+ }
+
+ .forcast{
+   display: block;
+   margin: 0 auto;
+   position: relative;
+   top: 250px;
+
+}
+.humid{
+   color: red;
+   
+}
+ .icon{
+    display: block;
+    margin: 0 auto;
+    
+
+ }
+
+ .min-temp{
+   font-weight: bold;
+   
+ }
+ .weatherTemp{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 35px;
+    margin-right: 20px;
+    
+ }
+
+ .temperature{
+
+    display: flex;
+    justify-content: center;
+    
+ }
+ 
+ .weather-wrap{
+    position: relative;
+    top:120px ;
+
+ }
+ 
+ .weather-icon{
+   width: 150px;
+   margin-right: 50px;
+ }
+
+ .winds{
+    font-size: 17px;
+    color: red;
+    
+ }
